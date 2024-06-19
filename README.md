@@ -1,4 +1,13 @@
-# Weather App
+**Name**: Rishabh Das\
+**Company**: CODTECH IT SOLUTIONS\
+**ID**: CT08PD733\
+**Domain**: WEB DEVELOPMENT\
+**Duration**: 4 weeks\
+**Mentor**: G.SRAVANI
+
+# Overview of the project
+
+## SkyGuard Weather App
 
 A simple weather application built using React.js and the Visual Crossing Weather API from RapidAPI. This app allows users to get current weather information for any city.
 
