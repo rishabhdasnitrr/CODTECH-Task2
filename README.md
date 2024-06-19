@@ -7,7 +7,7 @@
 
 # Overview of the project
 
-## SkyGuard Weather App
+## Project: SkyGuard - Weather App
 
 A simple weather application built using React.js and the Visual Crossing Weather API from RapidAPI. This app allows users to get current weather information for any city.
 
